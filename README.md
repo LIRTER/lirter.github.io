@@ -1,3 +1,3 @@
 Мой сайт
 
-[lirter.github.io](https://lirter.github.io)
+[lirter.ru](https://lirter.ru)
